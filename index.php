@@ -18,7 +18,7 @@ require_once('db.php');
 
 <body>
     
-    <?php include('header.php'); ?>
+    <?php include('header.php'); ?>      
 
 
 
