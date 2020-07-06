@@ -1,0 +1,78 @@
+#loginbtn:hover {
+    text-decoration: none;
+    color: black;
+}
+
+#loginbtn {
+   color: black; 
+}
+
+#pnummerinp {
+height: 60px;   
+}
+
+tr:hover {
+ 
+}
+
+#aup {
+ font-size: 10px;   
+}
+
+#adown {
+ font-size: 10px;   
+}
+
+
+#navtabs button:hover {
+    background-color: lightblue;
+}
+
+
+
+
+
+
+
+#dot {
+color: seagreen;
+text-align: center;
+}
+
+#classtop {
+ margin: -40px;   
+}
+
+
+#loginbtn:hover {
+ color: white;
+}
+
+
+@media screen and (min-width: 992px) {
+  ul a {
+     padding: 10px; 
+    }
+    
+    #left {
+     margin-left: 120px;   
+    }
+    
+
+
+}
+
+
+@media screen and (max-width: 792px) {
+    #p1 {
+   text-align: left;
+    margin-left: -50px;
+        font-size: 8px;
+    }
+    
+    
+#dropdwnform {
+
+    }
+    
+}
